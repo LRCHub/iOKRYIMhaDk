@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Love poem",
+  "base_artist": "아이유(IU)",
+  "createdAt": "2025-12-14T15:55:56.680032Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Dark Love Poem",
+      "artist": "The Notwist",
+      "has_synced": false,
+      "path": "select/01_One_Dark_Love_Poem_The_Notwist.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love poem",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/02_Love_poem_IU.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "My Love (Poem Version)",
+      "artist": "Florence + The Machine",
+      "has_synced": true,
+      "path": "select/03_My_Love_(Poem_Version)_Florence_+_The_Machine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Epic Love Poem",
+      "artist": "Deerhoof",
+      "has_synced": false,
+      "path": "select/04_Epic_Love_Poem_Deerhoof.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Poem",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/05_Love_Poem_IU.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love poem (Love poem)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/06_Love_poem_(Love_poem)_IU.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Poem",
+      "artist": "AlbertsStuff",
+      "has_synced": true,
+      "path": "select/07_Love_Poem_AlbertsStuff.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Poem",
+      "artist": "Jung Woo",
+      "has_synced": true,
+      "path": "select/08_Love_Poem_Jung_Woo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love poem (Love poem)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/09_Love_poem_(Love_poem)_IU.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Best Love Poem I Can Write",
+      "artist": "Charles Bukowski",
+      "has_synced": false,
+      "path": "select/10_The_Best_Love_Poem_I_Can_Write_Charles_Bukowski.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love poem (Love poem)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/11_Love_poem_(Love_poem)_IU.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "French Love Poem",
+      "artist": "Jon Casey",
+      "has_synced": true,
+      "path": "select/12_French_Love_Poem_Jon_Casey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love poem",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_Love_poem_IU.txt"
+    }
+  ]
+}
